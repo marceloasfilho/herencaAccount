@@ -7,6 +7,7 @@ public class Account {
     protected Double balance;
 
     public Account() {
+
     }
 
     public Account(Integer number, String holder, Double balance) {
